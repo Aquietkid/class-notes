@@ -1,0 +1,3 @@
+- Two sets of functional dependencies are equal if both cover each other. 
+- A set $F$ of functional dependencies covers another set $G$  if each functional dependency in $G$ can be inferred from the functional dependencies in $F$. 
+- To check whether two sets of FDs are equivalent, check the closure of each attribute from each set by using the FDs of the other set. If all corresponding closures are equal, then the two sets are equivalent. 

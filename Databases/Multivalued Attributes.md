@@ -1,0 +1,1 @@
+Multi-valued attributes can be considered as nested relations since each tuple can have a relation within it. 

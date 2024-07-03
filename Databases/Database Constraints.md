@@ -1,0 +1,3 @@
+- __Implicit Constraints__: defined by the data model
+- __Explicit Constraints__: defined in the DDL
+- __Semantic Constraints__: to be enforced by the application or otherwise
